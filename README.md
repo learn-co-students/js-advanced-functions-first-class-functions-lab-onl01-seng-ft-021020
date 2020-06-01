@@ -1,4 +1,4 @@
-# JavaScript Advanced Functions: First-Class Functions Lab
+# JavaScript Advanced Functions: First-Class Functions Lab 
 
 ## Objectives
 1. Invoke functions assigned to a variable.
@@ -6,7 +6,7 @@
 3. Write functions that return other functions.
 4. Pass a function to another function.
 5. Call a function returned by another function.
-
+ 
 ## Introduction
 Functions are a very important part of JavaScript, and you will use them all the time. Without functions, we wouldn't get anything done! In this lab, we'll take a look at how we can use functions as first-class objects to pass them around, store them in variables and data structures, and return them from other functions.
 
